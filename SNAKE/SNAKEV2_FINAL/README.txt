@@ -12,7 +12,7 @@ SCL	---->	A5
 The button pins BPIN constants defined at the top
 The buttons are connected to the Arduino like this:
 
-	2, 3, 4, 5
+	BPIN...
  ||	  ||
 |------------|
 |	     |
@@ -24,5 +24,9 @@ GND	10Kohm
 	  ||
 	  5V
 
+The 4 buttons are the connected the same way to the GND and the 5V source,
+the only difference is that they will connect to different pins on the Arduino
+specified by the BPIN constants defined at the top of the SNAKE file. 
+Thr default pins are 2, 3, 4, and 5.
 
 Joshua Weitzel, February 2025
