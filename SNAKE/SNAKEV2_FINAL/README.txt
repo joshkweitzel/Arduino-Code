@@ -27,6 +27,6 @@ GND	10Kohm
 The 4 buttons are the connected the same way to the GND and the 5V source,
 the only difference is that they will connect to different pins on the Arduino
 specified by the BPIN constants defined at the top of the SNAKE file. 
-Thr default pins are 2, 3, 4, and 5.
+The default pins are 2, 3, 4, and 5.
 
 Joshua Weitzel, February 2025
