@@ -29,4 +29,6 @@ the only difference is that they will connect to different pins on the Arduino
 specified by the BPIN constants defined at the top of the SNAKE file. 
 The default pins are 2, 3, 4, and 5.
 
+Video demonstration: https://youtu.be/368RTbnuEyc
+
 Joshua Weitzel, February 2025
